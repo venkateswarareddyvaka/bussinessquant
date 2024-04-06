@@ -1,0 +1,69 @@
+# Node.js
+node_modules/
+
+# npm
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+
+# IDE project files
+*.iml
+*.ipr
+*.iws
+
+# Optional yarn cache directory
+.yarn/cache
+
+# Optional eslint cache
+.eslintcache
+
+# Optional node-waf configuration
+.lock-wscript
+
+# Optional parcel-bundler cache
+.cache/
+
+# Optional next.js build directory
+.next/
+
+# Optional nuxt.js build directory
+.nuxt/
+
+# Optional vuepress build directory
+.vuepress/dist
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional typescript build directory
+dist/
+
+# Optional nuxt.js build directory
+dist/
+
+# Optional swagger-js-codegen build directory
+api/
+
+# optional build directory
+build/
+
+# Optional local npm server
+.localserver/
+
+# Electron stuff
+node_modules/electron/
+node_modules/.bin/electron
+node_modules/.cache/electron
+node_modules/.config/electron
+node_modules/.electron/
+.idea/Main.iml
+.vscode/settings.json
